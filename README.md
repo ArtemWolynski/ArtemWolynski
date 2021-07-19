@@ -4,7 +4,7 @@
 https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 #### I'm a Full-Stack Developer working in Moscow, Russia.
 
-##### Contact Me
+##### CONTACT ME
 <p align="center">
 <a href="https://linkedin.com/in/artem-wolynski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="artem-wolynski" height="30" width="30" /></a>&nbsp;
 <a href="https://t.me/artemWolynski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Telegram" height="40" width="30" /></a>&nbsp;
@@ -21,4 +21,3 @@ https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 - 💬 Ping me about **back-end development**, **front-end development**, **processes** and **inftastructure**
 - 📫 Reach me: [artemwolynski.com](https://artemwolynski.com)
 - ⚡ Fun fact: Tôi nói tiếng việt
-

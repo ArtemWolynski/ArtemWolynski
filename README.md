@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ArtemWolynski/ArtemWolynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Moscow, Russia.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Precious Payload**
+- ⚙️ I use daily: `.java`, `.js`, `.aws`
+- Most loved technologies: `docker`, `angular`, `spring boot`
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **back-end development**, **front-end development**, **processes** and **inftastructure**
+- 📫 Reach me: [twitter.com/caneco](https://artemwolynski.com)
+- ⚡️ Fun fact: -

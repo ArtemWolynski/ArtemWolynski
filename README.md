@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm  Full-stack Software Engineer currently working at **Precious Payload**
-- ⚙️ I use daily: `.java`, `.js`, `.aws`
+- ⚙️ I use daily: `.java`, `.js`, `aws`, `coffee (not script)`
 - 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **back-end development**, **front-end development**, **processes** and **inftastructure**

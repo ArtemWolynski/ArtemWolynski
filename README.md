@@ -5,7 +5,7 @@ https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 #### I'm a Full-Stack Developer working in Moscow, Russia.
 
 ##### CONTACT ME
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/artem-wolynski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="artem-wolynski" height="30" width="30" /></a>&nbsp;
 <a href="https://t.me/artemWolynski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Telegram" height="40" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/artem.wolynski"><img align="center" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
@@ -22,7 +22,7 @@ https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 - ⚡ Fun fact: Tôi nói tiếng việt
 
 
-<p align="center">
+<p>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>

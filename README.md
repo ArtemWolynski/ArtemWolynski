@@ -25,12 +25,12 @@ https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="65" height="65"/> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="110" height="75"/> 
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="110" height="75"/> 
 </p>

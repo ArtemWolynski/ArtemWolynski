@@ -1,7 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ![](https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif)
-https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 
 ##### CONTACT ME
 <p>
@@ -20,6 +19,7 @@ https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 - 📫 Reach me: [artemwolynski.com](https://artemwolynski.com)
 - ⚡ Fun fact: Tôi nói tiếng việt
 
+##### TECH I LIKE
 <br>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 

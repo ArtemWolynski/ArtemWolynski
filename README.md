@@ -10,6 +10,7 @@ https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 <a href="https://t.me/artemWolynski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Telegram" height="40" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/artem.wolynski"><img align="center" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
+<br>
 
 ##### BIO
 
@@ -21,8 +22,8 @@ https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 - 📫 Reach me: [artemwolynski.com](https://artemwolynski.com)
 - ⚡ Fun fact: Tôi nói tiếng việt
 
-
-<p>
+<br>
+<p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>

@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm  Full-stack Software Engineer currently working at **Precious Payload**
+- 🏢 I'm  Full-stack Software Engineer and a Lead Developer currently working at <a href="https://preciouspayload.com/" alt="precious-payload">**Precious Payload**</a>
 - ⚙️ I use daily: `.java`, `.js`, `aws`, `coffee (not script)`
 - 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
 - 🌱 Learning all about **Open Source**

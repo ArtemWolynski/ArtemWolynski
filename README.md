@@ -18,9 +18,9 @@
 <a href="https://t.me/artemWolynski" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" height="30" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/artem.wolynski"><img align="center" alt="Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /></a>
 </p>
+<br>
 
 ##### TECH I LIKE
-<br>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="65" height="65"/> 

@@ -2,7 +2,6 @@
 
 ![](https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif)
 https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
-#### I'm a Full-Stack Developer working in Moscow, Russia.
 
 ##### CONTACT ME
 <p>

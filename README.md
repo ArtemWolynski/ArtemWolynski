@@ -7,8 +7,8 @@
 - 🏢 I'm  Full-stack Software Engineer and Lead Developer currently working at <a href="https://preciouspayload.com/" alt="precious-payload">**Precious Payload**</a>
 - ⚙️ I use daily: `.java`, `.ts`, `aws`, `coffee (not script)`
 - 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **back-end development**, **front-end development**, **processes** and **infrastructure**
+- 🌱 Learning all about **Infrastructure as Code**
+- 💬 Ping me about **back-end development**, **front-end development**, **building teams and software delivery pipeline** and **infrastructure**
 - 📫 Reach me: [artemwolynski.com](https://artemwolynski.com)
 - ⚡ Fun fact: Tôi nói tiếng việt
 
